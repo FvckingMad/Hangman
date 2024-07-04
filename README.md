@@ -15,3 +15,5 @@
 
 Игра готова к запуску. При желании, можно изменить набор слов, внеся изменения в файл
 `words.txt` в папке `data`
+
+![](https://github.com/FvckingMad/Hangman/blob/master/screenshot.png)
